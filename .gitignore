@@ -1,6 +1,9 @@
 # Visual Studio 2015 user specific files
 .vs/
 
+#All items that need not be stored
+*/StarterContent/
+
 # Compiled Object files
 *.slo
 *.lo
