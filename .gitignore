@@ -2,7 +2,7 @@
 .vs/
 
 #All items that need not be stored
-*/StarterContent/
+StarterContent/
 
 # Compiled Object files
 *.slo
